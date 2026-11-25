@@ -1,0 +1,3 @@
+# instancia;otimo_A(max folhas);otimo_B(min ramificacoes)
+# Preencher com os ótimos calculados à mão (P1).
+p01.txt;?;?

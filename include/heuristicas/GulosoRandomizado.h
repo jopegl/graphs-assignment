@@ -1,0 +1,7 @@
+#ifndef HEURISTICAS_GULOSORANDOMIZADO_H
+#define HEURISTICAS_GULOSORANDOMIZADO_H
+
+// Responsável: P2
+// TODO: declarar a classe GulosoRandomizado
+
+#endif // HEURISTICAS_GULOSORANDOMIZADO_H

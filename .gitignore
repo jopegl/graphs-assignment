@@ -1,0 +1,7 @@
+bin/
+build/
+*.o
+relatorio/*.aux
+relatorio/*.log
+relatorio/*.out
+relatorio/*.toc
